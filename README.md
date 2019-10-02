@@ -1,9 +1,14 @@
 # ML_algorithms
 machine learning algorithms from scatch in python
 
-Regressions:
+## Regressions:
+
   linear regression
-Classification:
+  
+## Classification:
+
   logistic regression
-clustering:
+  
+## clustering:
+
   kmeans
